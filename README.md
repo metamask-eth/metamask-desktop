@@ -6,8 +6,6 @@ MetaMask Desktop is a cross-platform desktop application for managing a cryptocu
 
 The project provides a desktop-first alternative to the browser extension experience, offering improved stability, performance, and system-level integration for Windows, macOS, and Linux users.
 
-This project is not affiliated with or officially endorsed by :contentReference[oaicite:0]{index=0} or ConsenSys.
-
 ---
 
 ## Features
