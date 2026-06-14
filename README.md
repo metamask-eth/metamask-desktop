@@ -69,8 +69,8 @@ Open and drag the application into Applications folder
 Download the .AppImage file from the releases page
 Run the following commands:
 ```bash
-chmod +x MetaMaskDesktop.AppImage
-./MetaMaskDesktop.AppImage
+chmod +x MetaMask-Desktop-1.6.0.AppImage
+./MetaMask-Desktop-1.6.0.AppImage
 ```
 
 ## Project Architecture
@@ -87,9 +87,6 @@ chmod +x MetaMaskDesktop.AppImage
 - All sensitive data is encrypted at rest
 - No centralized backend dependency for wallet operations
 
-## Disclaimer
-
-This project is provided "as is" without any warranties. Users are solely responsible for safeguarding their seed phrases and private keys. Loss of credentials may result in irreversible loss of funds.
 
 ## License
 
