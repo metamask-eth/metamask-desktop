@@ -36,8 +36,6 @@ This project is not affiliated with or officially endorsed by :contentReference[
 
 ## Screenshots
 
-
-
 <table>
 <tr>
 <td>
@@ -51,6 +49,7 @@ This project is not affiliated with or officially endorsed by :contentReference[
 </td>
 </tr>
 </table>
+
 ---
 
 ## Installation
